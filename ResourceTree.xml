@@ -1,0 +1,31 @@
+<resources>
+  
+  <resource UID="1" type="graphic" filename="gfx/menina_parada_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_parada_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_andando_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_andando_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_pulando_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_pulando_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_caindo_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_caindo_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_idle_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_idle_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_sentaechora_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_sentaechora_dir.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_empurrando_esq.png" scenescope="1" alpha="true"></resource>
+  <resource UID="1" type="graphic" filename="gfx/menina_empurrando_dir.png" scenescope="1" alpha="true"></resource>
+
+  <resource UID="2" type="graphic" filename="gfx/kelvin02.png" scenescope="1" alpha="true"></resource>
+  
+  <resource UID="1000" type="graphic" filename="gfx/gelo.png" scenescope="1" alpha="false"></resource>
+  
+  <resource UID="2000" type="graphic" filename="gfx/chao_t.png" scenescope="1" alpha="false"></resource>
+  
+  <resource UID="3000" type="graphic" filename="gfx/intro.png" scenescope="1" alpha="false"></resource>
+  
+  <resource UID="3001" type="graphic" filename="gfx/grid.png" scenescope="1" alpha="false"></resource>
+  
+  <resource UID="5" type="audio" filename="gfx/myaudio.mp3" scenescope="1" audio_type="stream"></resource>
+  
+	<!--<resource UID="6" type="audio" filename="gfx/music.ogg" scenescope="1" audio_type="sample"></resource>-->
+</resources>

@@ -1,0 +1,64 @@
+<scenes>
+  <scene UID="1">
+    <layers>
+      <layer name="layer1" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="1024" h="768" resourceID="3001" animspeed="0" visible="true" colorkey="false"></object>          
+        </objects>
+      </layer>
+      <layer name="layer2" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="50" h="55" resourceID="2" animspeed="150" visible="true" colorkey="false" framesPerRow ="10"></object>
+          <object posx="400" posy="0" w="103" h="122" resourceID="1" animspeed="200" visible="true" colorkey="false" r="139" g="55" b="27" framesPerRow="5"></object>          
+        </objects>        
+      </layer>
+      <layer name="layer3" posx="0" posy="704" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="64" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="128" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="192" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="320" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="384" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+        </objects>
+      </layer>
+      <layer name="layer4" posx="0" posy="512" visible="true">
+        <objects>
+          <object posx="192" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+        </objects>
+      </layer>
+      <layer name="layer5" posx="704" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="64" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="128" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="192" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="256" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="320" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="384" w="64" h="64" resourceID="1000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="448" w="64" h="64" resourceID="1000" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="512" w="64" h="64" resourceID="2000" animspeed="0" visible="true" colorkey="false"></object>
+        </objects>
+      </layer>
+    </layers>    
+    
+  </scene>
+</scenes>

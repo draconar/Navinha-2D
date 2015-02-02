@@ -1,0 +1,288 @@
+<scenes>
+  <scene UID="1">
+    <layers>
+      <layer name="layer1" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="1024" h="768" resourceID="3001" animspeed="0" visible="true" colorkey="false" r="0" g="0" b="0"></object>          
+        </objects>
+      </layer>
+      <layer name="layer2" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="192" posy="480" w="64" h="96" resourceID="1" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="448" w="64" h="64" resourceID="2" animspeed="0" visible="true" colorkey="false"></object>
+        </objects>        
+      </layer>
+      <layer name="layer3" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="640" posy="448" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="384" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="448" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="1408" posy="224" w="64" h="96" resourceID="1144" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="256" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="256" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="320" w="64" h="64" resourceID="1128" animspeed="0" visible="true" colorkey="false"></object>
+		</objects>
+      </layer>
+      <layer name="layer4" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="0" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="64" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="64" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="64" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="128" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="128" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="128" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="192" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="192" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="192" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="256" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="320" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="320" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="320" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="384" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="384" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="384" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="128" w="64" h="64" resourceID="2001" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="192" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="256" w="64" h="64" resourceID="2010" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="320" w="64" h="64" resourceID="2052" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="512" w="64" h="64" resourceID="2001" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="576" w="64" h="64" resourceID="2005" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="448" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="64" w="64" h="64" resourceID="2001" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="128" w="64" h="64" resourceID="2005" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="256" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="512" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="512" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="0" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="64" w="64" h="64" resourceID="2005" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="256" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="512" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="576" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="256" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="512" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="640" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="256" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="512" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="704" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="64" w="64" h="64" resourceID="2022" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="128" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="192" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="256" w="64" h="64" resourceID="2035" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="512" w="64" h="64" resourceID="2003" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="576" w="64" h="64" resourceID="2006" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="768" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="832" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="320" w="64" h="64" resourceID="2001" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="384" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="448" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="512" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="576" w="64" h="64" resourceID="2005" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="896" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="320" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="384" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="448" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="512" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="960" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="1024" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+          <object posx="1024" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="320" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="384" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="448" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="512" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1024" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="320" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="384" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="448" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="512" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1088" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="320" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="384" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="448" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="512" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="576" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1152" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="320" w="64" h="64" resourceID="2003" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="384" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="448" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="512" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="576" w="64" h="64" resourceID="2019" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="640" w="64" h="64" resourceID="2006" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1216" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1280" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1280" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1280" posy="640" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1280" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="64" w="64" h="64" resourceID="2047" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="128" w="64" h="64" resourceID="2036" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="192" w="64" h="64" resourceID="2036" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="256" w="64" h="64" resourceID="2036" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="320" w="64" h="64" resourceID="2053" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="640" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1344" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1408" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1408" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1408" posy="320" w="64" h="64" resourceID="2050" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1408" posy="640" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1408" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1472" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1472" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1472" posy="320" w="64" h="64" resourceID="2050" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1472" posy="640" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1472" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1536" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1536" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1536" posy="320" w="64" h="64" resourceID="2050" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1536" posy="640" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1536" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="320" w="64" h="64" resourceID="2051" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="576" w="64" h="64" resourceID="2001" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="640" w="64" h="64" resourceID="2005" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1600" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1664" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1728" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1728" posy="64" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1728" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1728" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1728" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="64" w="64" h="64" resourceID="2021" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="128" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="192" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="256" w="64" h="64" resourceID="2017" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="320" w="64" h="64" resourceID="2033" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1792" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="256" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="320" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1856" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="256" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="320" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1920" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="256" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="320" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="1984" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="256" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="320" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2048" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="0" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="64" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="128" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="192" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="256" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="320" w="64" h="64" resourceID="2034" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="576" w="64" h="64" resourceID="2002" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="640" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+		  <object posx="2112" posy="704" w="64" h="64" resourceID="2018" animspeed="0" visible="true" colorkey="false"></object>
+	  </objects>
+      </layer>
+    </layers>    
+    
+  </scene>
+  <scene UID="2">
+    <layers>
+      <layer name="layer1" posx="0" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="800" h="600" resourceID="3000" animspeed="0" visible="true" colorkey="false" r="0" g="0" b="0"></object>
+          <object posx="400" posy="0" w="64" h="64" resourceID="3" animspeed="0" visible="true" colorkey="true" r="191" g="220" b="191"></object>
+          <object posx="400" posy="200" w="64" h="64" resourceID="1000" animspeed="0" visible="true" colorkey="true" r="191" g="220" b="191"></object>
+        </objects>
+      </layer>
+    </layers>
+  </scene>
+  <scene UID="3">
+    <layers>
+      <layer name="layer1" posx="100" posy="0" visible="true">
+        <objects>
+          <object posx="0" posy="0" w="64" h="64" resourceID="3" animspeed="100" visible="true" colorkey="true" r="191" g="220" b="191"></object>
+          <object posx="3" posy="4" w="64" h="64" resourceID="2" visible="true" colorkey="true" r="0" g="0" b="0"></object>
+        </objects>
+      </layer>
+      <layer name="layer2" posx="400" posy="300" visible="true">
+        <objects>
+          <object posx="5" posy="6" w="64" h="64" resourceID="1" animspeed="1000" visible="true" colorkey="false" r="0" g="0" b="0"></object>
+        </objects>
+      </layer>
+    </layers>
+  </scene>
+</scenes>

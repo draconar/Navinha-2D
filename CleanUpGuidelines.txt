@@ -1,0 +1,17 @@
+Para evitar Memory Leaks ao terminar a execução do código:
+
+Para cada Manager criar um função clear() que deverá ser chamada antes de terminar a execução sempre mantendo a ordem
+de criação dos Managers.
+	psx.clear();
+	entityManager->clear();
+	g_sceneManager->clear();
+	resourceManager->clear();
+	inputManager.clear();
+    g_renderManager->clear();
+    
+Em cada clear() a função deverá dar delete() em cada ponteiro criado. Caso haja std::map no manager este deverá ser
+percorrido iterativamente e dar SAFE_DELETE() em todos os elementos. Aparentemente ponteiros armazenados em maps não respondem
+quando se chama a função map.clear().
+
+Incluam também o arquivo debug.h para poder realizar debug de memory leaks.
+Evitam usar free() e malloc(), pois o debugger usa estas chamadas para identificar os memory leaks.
